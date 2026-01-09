@@ -28,9 +28,10 @@ JavaScript – Game logic
 This project helped me understand:
 
 JavaScript conditionals and functions
-
 DOM manipulation
+Basic game logic implementation
 
-Basic game logic implementation![rock-paper-sccisors game image](https://github.com/user-attachments/assets/5255cc05-e821-43a8-959e-03fef31499b4)
+
+![rock-paper-sccisors game image](https://github.com/user-attachments/assets/5255cc05-e821-43a8-959e-03fef31499b4)
 
 
