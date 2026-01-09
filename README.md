@@ -31,5 +31,6 @@ JavaScript conditionals and functions
 
 DOM manipulation
 
-Basic game logic implementation
-![alt text](<rock-paper-sccisors game image.jpeg>)
+Basic game logic implementation![rock-paper-sccisors game image](https://github.com/user-attachments/assets/5255cc05-e821-43a8-959e-03fef31499b4)
+
+
