@@ -33,3 +33,8 @@ DOM manipulation
 
 Basic game logic implementation
 ![alt text](<rock-paper-sccisors game image.jpeg>)
+![paper image](paper-emoji.png)
+
+![rock image](rock-emoji.png)
+
+![scissors](scissors-emoji.png)
